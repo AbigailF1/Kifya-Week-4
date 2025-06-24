@@ -8,3 +8,7 @@ data/processed/
 *.log
 .DS_Store
 Thumbs.db
+
+# Ignore raw and processed data files
+data/raw/
+data/processed/
